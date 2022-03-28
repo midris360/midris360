@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Katzeem Idris</h1>
-<h3 align="center">I'm a Full Stack Software Engineer from Newark, New Jersey</h3>
+<h3 align="center">Hello 👋, I'm Katzeem Idris</h3>
+<h4 align="center">I'm a Full Stack Software Engineer from Newark, New Jersey</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midris360&label=Profile%20views&color=0e75b6&style=flat" alt="midris360" /> </p>
 
