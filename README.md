@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/midris360](https://www.github.com/midris360)
 
-- 📝 I regularly write articles on [https://hashnode.com/@midris360](https://hashnode.com/@midris360)
+- 💬 Ask me about **JavaScript, Node.js & Ruby**
 
-- 💬 Ask me about **JavaScript, Node.js, React.js, & Ruby**
-
-- 📫 How to reach me **katzeemidris@gmail.com**
+- 📫 How to reach me **idrisgfx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
