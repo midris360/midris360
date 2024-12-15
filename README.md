@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/midris360](https://www.github.com/midris360)
 
-- 💬 Ask me about **JavaScript, Node.js & Ruby**
+- 💬 Ask me about **HTML/CSS, SQL & JavaScript**
 
 - 📫 How to reach me **idrisgfx@gmail.com**
 
@@ -23,7 +23,7 @@
 <a href="https://www.behance.net/midris360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="midris360" height="30" width="40" /></a>
 <a href="https://medium.com/@midris360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@midris360" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/iamcraftbeatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamcraftbeatz" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/midris360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="midris360" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/midris360" target="blank"><img align="center" src="https://github.com/user-attachments/assets/66f2e850-9334-4b40-957b-e2341f6e95b6" alt="midris360" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/midris360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="midris360" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/midris360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midris360" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/midris360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midris360" height="30" width="40" /></a>
